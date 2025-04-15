@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Frontier.sh</path>
+    <name>Frontier: Elite II</name>
+    <desc>Reverse engineered version of the Atari ST version of Frontier (glfrontier) compiled with the original Software Renderer only (no OpenGL) and sdl12_compat. Copy protection removed.</desc>
+    <image>./frontier/cover.png</image>
+  </game>
+</gameList>

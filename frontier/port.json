@@ -1,0 +1,31 @@
+{
+  "version": 3,
+  "name": "frontier.zip",
+  "items": [
+    "Frontier.sh",
+    "frontier"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Frontier: Elite II",
+    "porter": [
+      "ricardo-ayres"
+    ],
+    "desc": "Reverse engineered version of the Atari ST version of Frontier (glfrontier) compiled with the original Software Renderer only (no OpenGL) and sdl12_compat. Copy protection removed.",
+    "desc_md": null,
+    "inst": "Select the most appropriate key mappings using gptokeyb.",
+    "inst_md": null,
+    "genres": [
+      "other"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": null,
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ],
+    "min_glibc": ""
+  }
+}
